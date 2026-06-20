@@ -25,7 +25,7 @@ I'm a Computer Science student at Sorbonne University, in Paris. I'm currently i
 
 
 <h2>Let's chat!</h2>
-<a href="www.linkedin.com/in/elise-jt-thomas">
+<a href="https://linkedin.com/in/elise-jt-thomas">
   <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/612ebf2e-db1e-435c-9715-f602248236ba" />
 </a>
 <a href="https://discord.gg/MpV7RnpB">
