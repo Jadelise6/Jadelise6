@@ -7,20 +7,18 @@ I'm a Computer Science student at Sorbonne University, in Paris. I'm currently i
 <!-- https://www.magnific.com/icons -->
 
 <div display="flex" >
-  <!-- vscode -->
-  <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/4b061ced-ea21-4e2a-862e-9f28aa204605" />
   <!-- python -->
-  <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/ac64f98d-db2f-4ad8-a792-e205e1cb64ec" />
+  <a href="https://www.python.org/><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/ac64f98d-db2f-4ad8-a792-e205e1cb64ec" /></a>
   <!-- react -->
-  <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/6a270a15-5a10-4416-9167-f150543b41d0" />
+  <a href="https://react.dev/"><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/6a270a15-5a10-4416-9167-f150543b41d0" /></a>
   <!-- linux -->
-  <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/181f2a8d-0b47-4633-adf7-465c2a93f777" />
+  <a href="https://www.linux.org/"><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/181f2a8d-0b47-4633-adf7-465c2a93f777" /></a>
   <!-- javascript -->
-  <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/19d2a1a4-2ec5-42aa-b452-e9cedfa318bb" />
+  <a href="https://www.learn-js.org/"><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/19d2a1a4-2ec5-42aa-b452-e9cedfa318bb" /></a>
   <!-- java -->
-  <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/d4b55bb3-726d-4c31-8d05-ddf8aa2ca7fa" />
+  <a href="https://www.java.com/en/"><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/d4b55bb3-726d-4c31-8d05-ddf8aa2ca7fa" /></a>
   <!-- c -->
-  <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/e199f203-cc2c-47a7-ae36-1b6732daf933" />
+  <a href="https://www.c-language.org/"><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/e199f203-cc2c-47a7-ae36-1b6732daf933" /></a>
 </div>
 
 
