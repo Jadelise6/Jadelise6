@@ -2,23 +2,24 @@
 <!-- https://github.com/kyechan99/capsule-render#rotate -->
 
 I'm a Computer Science student at Sorbonne University, in Paris. I'm currently in my first year Master's degree in Data Science.
+* Personal site : <a href="http://elisethomas.duckdns.org">elisethomas.duckdns.org</a>
 
 <h2>Languages and tools</h2>
 <!-- https://www.magnific.com/icons -->
 
 <div display="flex" >
   <!-- python -->
-  <a href="https://www.python.org/><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/ac64f98d-db2f-4ad8-a792-e205e1cb64ec" /></a>
+  <a href="https://www.python.org/><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/ac64f98d-db2f-4ad8-a792-e205e1cb64ec" />
   <!-- react -->
-  <a href="https://react.dev/"><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/6a270a15-5a10-4416-9167-f150543b41d0" /></a>
+  <a href="https://react.dev/"><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/6a270a15-5a10-4416-9167-f150543b41d0" />
   <!-- linux -->
-  <a href="https://www.linux.org/"><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/181f2a8d-0b47-4633-adf7-465c2a93f777" /></a>
+  <a href="https://www.linux.org/"><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/181f2a8d-0b47-4633-adf7-465c2a93f777" />
   <!-- javascript -->
-  <a href="https://www.learn-js.org/"><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/19d2a1a4-2ec5-42aa-b452-e9cedfa318bb" /></a>
+  <a href="https://www.learn-js.org/"><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/19d2a1a4-2ec5-42aa-b452-e9cedfa318bb" />
   <!-- java -->
-  <a href="https://www.java.com/en/"><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/d4b55bb3-726d-4c31-8d05-ddf8aa2ca7fa" /></a>
+  <a href="https://www.java.com/en/"><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/d4b55bb3-726d-4c31-8d05-ddf8aa2ca7fa" />
   <!-- c -->
-  <a href="https://www.c-language.org/"><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/e199f203-cc2c-47a7-ae36-1b6732daf933" /></a>
+  <a href="https://www.c-language.org/"><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/e199f203-cc2c-47a7-ae36-1b6732daf933" />
 </div>
 
 
@@ -33,9 +34,9 @@ I'm a Computer Science student at Sorbonne University, in Paris. I'm currently i
 <h2>Stats</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadelise6&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=jadelise6&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Jadelise6's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadelise6&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Jadelise6's GitHub stats](https://github-readme-stats.shion.dev/api?username=jadelise6&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=90&section=footer)
 <!--
