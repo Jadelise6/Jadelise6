@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Hello!&animation=fadeIn&color=gradient&height=90&fontSize=55)
 <!-- https://github.com/kyechan99/capsule-render#rotate -->
 
-I'm a Computer Science student at Sorbonne University, in Paris. I'm currently in my first year Master's degree in Data Science.
+I'm a Computer Science student at Sorbonne University, in Paris. I'm currently in my second year Master's degree in Data Science.
 * Personal site : <a href="http://elisethomas.duckdns.org">elisethomas.duckdns.org</a>
 
 <h2>Languages and tools</h2>
